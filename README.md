@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm [Ethan Rubenstein](https://ethanthegreat.com) 👋
 
 <img align="right" height="60" width="60" alt="EthanTheGreat Logo" src="https://ethanthegreat.com/images/logo_circle.png" />
 
@@ -8,9 +8,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=ethanmrubenstein&label=Views&color=blue&style=plastic) 
 
-My name is Ethan Rubenstein and I'm a Web Developer. I started website development back in 2019 and I have had a passion for it ever since. I am currently working on enhancing my skills doing commissions for other people. I regularly build projects using HTML, CSS, and JavaScript. You can find all of these on my profile.
+My name is Ethan Rubenstein and I'm a Web Developer. I started website development back in 2019 and I have had a passion for it ever since. I am currently working on enhancing my skills and doing commissions for other people. I regularly build projects using HTML, CSS, and JavaScript. You can find all of these on my profile.
 
-- 🌱 I’m currently learning advanced CSS.
 - 📫 You can [message me on Discord](https://discord.com/users/617902351138816032) or [email me](mailto:ethanmrubenstein@gmail.com).
 
 ### Languages and Tools:
@@ -20,18 +19,3 @@ My name is Ethan Rubenstein and I'm a Web Developer. I started website developme
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![](https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-<!--
-**ethanmrubenstein/ethanmrubenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
