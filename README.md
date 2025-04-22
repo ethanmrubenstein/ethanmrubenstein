@@ -8,6 +8,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=ethanmrubenstein&label=Views&color=blue&style=plastic) 
 
+My name is Ethan Rubenstein and I'm a Web Developer. I started website development back in 2019 and I have had a passion for it ever since. I am currently working on enhancing my skills doing commissions for other people. I regularly build projects using HTML, CSS, and JavaScript. You can find all of these on my profile.
+
+- 🌱 I’m currently learning advanced CSS.
+- 📫 You can [message me on Discord](https://discord.com/users/617902351138816032) or [email me](mailto:ethanmrubenstein@gmail.com).
+
 ### Languages and Tools:
 
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
