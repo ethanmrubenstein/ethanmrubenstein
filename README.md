@@ -1,6 +1,6 @@
 ## Hi there, I'm [Ethan Rubenstein](https://ethanthegreat.com) 👋
 
-<img align="right" src="https://ethanthegreat.com/images/logo_circle.png" alt="EthanTheGreat Logo" width="60" height="60"/>
+<img align="right" src="https://ethanthegreat.com/old/images/logo_circle.png" alt="EthanTheGreat Logo" width="60" height="60"/>
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://ethanthegreat.com/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ethanthegreat.com)
