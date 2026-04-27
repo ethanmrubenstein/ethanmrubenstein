@@ -5,6 +5,7 @@ My name is Ethan Rubenstein and I'm a Web Developer. I began creating websites b
 - 📫 You can [message me on Discord](https://discord.com/users/617902351138816032) or [email me](mailto:ethanmrubenstein@gmail.com).
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://ethanthegreat.com/discord)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ethanthegreat.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/ethanmrubenstein)
 
 ### Languages:
